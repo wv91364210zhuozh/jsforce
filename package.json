@@ -55,7 +55,7 @@
     "jsforce": "./bin/jsforce"
   },
   "dependencies": {
-    "base64-url": "^2.2.0",
+    "base64-url": "^2.3.3",
     "co-prompt": "^1.0.0",
     "coffeescript": "^1.10.0",
     "commander": "^2.9.0",
