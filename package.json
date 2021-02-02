@@ -58,7 +58,7 @@
     "base64-url": "^2.2.0",
     "co-prompt": "^1.0.0",
     "coffeescript": "^1.10.0",
-    "commander": "^2.9.0",
+    "commander": "^2.20.3",
     "csv-parse": "^4.10.1",
     "csv-stringify": "^1.0.4",
     "faye": "^1.2.0",
